@@ -2,6 +2,8 @@
  * This sketch takes in an angle from serial and writes it
  * to a servo motor. 
  * 
+ * p5 sketch: https://editor.p5js.org/mikevanis/sketches/H0j5ydZel
+ * 
  */
 
 // Include servo library
